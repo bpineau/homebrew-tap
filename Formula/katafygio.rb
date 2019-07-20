@@ -1,9 +1,9 @@
 class Katafygio < Formula
   desc "Dump, or continuously backup Kubernetes objets as yaml files in git"
   homepage "https://github.com/bpineau/katafygio"
-  url "https://github.com/bpineau/katafygio/releases/download/v0.7.3/katafygio_0.7.3_darwin_amd64"
-  version "0.7.3"
-  sha256 "bccade6d3047334a9840f0d18918b76de8d66b475b0e9e683842937baa60c25a"
+  url "https://github.com/bpineau/katafygio/releases/download/v0.8.0/katafygio_0.8.0_darwin_amd64"
+  version "0.8.0"
+  sha256 "176f952c8784d29012d0bed57e186831df59196f9f2fd8d76b64bfa02ea490ee"
   bottle :unneeded
 
   def install
