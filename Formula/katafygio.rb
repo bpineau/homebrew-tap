@@ -4,7 +4,6 @@ class Katafygio < Formula
   homepage "https://github.com/bpineau/katafygio"
   version "0.8.3"
   license "MIT"
-  bottle :unneeded
 
   if OS.mac?
     url "https://github.com/bpineau/katafygio/releases/download/v0.8.3/katafygio_0.8.3_darwin_amd64.tar.gz"
